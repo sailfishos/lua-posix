@@ -1,10 +1,10 @@
-%global luaver 5.3
+%global luaver 5.4
 %define lua_libdir %{_libdir}/lua/%{luaver}
 %define lua_pkgdir %{_datadir}/lua/%{luaver}
 
 
 Name:           lua-posix
-Version:        35.0.1
+Version:        36.2.1
 Release:        1
 Summary:        A POSIX library for Lua
 License:        MIT
