@@ -1,4 +1,4 @@
-%define flavor @BUILD_FLAVOR@%{nil}
+%define flavor lua54%{nil}
 %define mod_name posix
 
 %if "%{flavor}" == ""
